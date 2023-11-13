@@ -1,10 +1,11 @@
 import React from 'react'
 
 
+
 const Others = () => {
   return (
     <section className='w-[100%] h-[763px] pl-[120px] pr-[118px] pt-20 pb-[139.71px] justify-center inline-flex'>
-    <div className="w-[100%] h-[543.29px] flex-col justify-center items-center gap-8 inline-flex">
+    <div className="w-[100%] h-[543.29px] flex-col justify-center gap-8 inline-flex">
     <div className="text-gray-900 text-[42px] font-bold font-['Archivo Expanded'] leading-[42px]">Others</div>
     <div className="w-[1202px] justify-start items-start gap-6 inline-flex">
         <div className="grow shrink basis-0 flex-col justify-center items-start gap-8 inline-flex">
