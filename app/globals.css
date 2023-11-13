@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+@layer utilities {
+  .btn_light_green {
+    @apply bg-lime-300 w-[200px] h-14 px-4 py-6 rounded-2xl justify-center items-center gap-2 inline-flex text-[#121220] font-medium text-[17px] font-roboto
+    leading-snug
+  }
+
+  .flexCenter {
+    @apply flex items-center justify-center;
+  }
+
+  .font-roboto {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .hero-image {
+    background-image: url('/bg-1.png');
+    width: 100%;
+    height: 687px;
+    background-size: cover;
+  }
+
+  .trending-img {
+    background-image: url('/woman.jpg');
+    background-size: cover; /* This will make the background image cover the entire div */
+    background-position: center;
+  }
+}
