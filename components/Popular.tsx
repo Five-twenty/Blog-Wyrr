@@ -31,7 +31,7 @@ const Popular = () => {
             <div className="self-stretch flex-col justify-start items-start gap-4 inline-flex">
                 <div className="flex-col justify-start items-start gap-2 flex">
                     <div className="text-gray-900 text-2xl font-medium font-['Roboto'] leading-[40.80px]">Travel</div>
-                    <div className="w-[295px] text-zinc-700 text-xs font-normal font-['Roboto'] leading-none tracking-tight">Tips and advice for Canadians planning to move to Nigeria, such as how to get a visa, find a place to live, and ship your belongings.</div>
+                    <div className="w-[295px] text-zinc-700 text-xs font-normal font-['Roboto'] leading-none tracking-tight">Tips and advice for Canadians planning to move to Nigeria, such as how to get a visa</div>
                 </div>
                 <div className="w-[277px] h-14 px-4 py-6 rounded-2xl border border-neutral-900 justify-center items-center gap-2 inline-flex">
                     <div className="text-gray-900 text-[17px] font-medium font-['Roboto'] leading-snug">Explore</div>
