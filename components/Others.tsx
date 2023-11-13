@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Others = () => {
   return (
     <section className='w-[100%] h-[763px] pl-[120px] pr-[118px] pt-20 pb-[139.71px] justify-center inline-flex'>
@@ -7,7 +8,7 @@ const Others = () => {
     <div className="text-gray-900 text-[42px] font-bold font-['Archivo Expanded'] leading-[42px]">Others</div>
     <div className="w-[1202px] justify-start items-start gap-6 inline-flex">
         <div className="grow shrink basis-0 flex-col justify-center items-start gap-8 inline-flex">
-            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl"  src="/frame.jpg" />
+            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl"  src="/Frame.jpg" />
             <div className="self-stretch h-[188px] flex-col justify-start items-start gap-2 flex">
                 <div className="text-gray-900 text-2xl font-medium font-['Roboto'] leading-[40.80px]">On-time Tuition <br/>Payments in Canada.</div>
                 <div className="self-stretch h-[98px] flex-col justify-start items-start gap-6 flex">
@@ -26,7 +27,7 @@ const Others = () => {
             </div>
         </div>
         <div className="grow shrink basis-0 flex-col justify-center items-start gap-8 inline-flex">
-            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl" src="/frame.jpg" />
+            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl" src="/Frame.jpg" />
             <div className="self-stretch h-[188px] flex-col justify-start items-start gap-2 flex">
                 <div className="text-gray-900 text-2xl font-medium font-['Roboto'] leading-[40.80px]">On-time Tuition <br/>Payments in Canada.</div>
                 <div className="self-stretch h-[98px] flex-col justify-start items-start gap-6 flex">
@@ -45,7 +46,7 @@ const Others = () => {
             </div>
         </div>
         <div className="grow shrink basis-0 flex-col justify-center items-start gap-8 inline-flex">
-            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl" src="/frame.jpg" />
+            <img className="w-[384.67px] h-[249.29px] relative rounded-2xl" src="/Frame.jpg" />
             <div className="self-stretch h-[188px] flex-col justify-start items-start gap-2 flex">
                 <div className="text-gray-900 text-2xl font-medium font-['Roboto'] leading-[40.80px]">On-time Tuition <br/>Payments in Canada.</div>
                 <div className="self-stretch h-[98px] flex-col justify-start items-start gap-6 flex">
